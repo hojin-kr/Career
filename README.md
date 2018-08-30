@@ -16,6 +16,7 @@ Introduce my career
   - ICT 스터리그룹 우수상
     - 로또 번호 예측 lottoNumSelector(https://github.com/hojin-kr/lottoNumSelector)
   - 단국대학교 창업지원단 창업동아리 선정
+    - 장호진(대표), 이순재, 이동민, 유지은, 오동현, 이광희, 서희원
   - 해외 Vinyl(LP) 구매대행 E-Commerce Shop : 호지니레코드(http://호지니레코드.com)
     - 사이트 자체 개발 : 서버 : AWS, EC2, Ubuntu 프레임워크 :  WordPress(php html css) 결제 솔루션 : iamport + PG Danal
   - 여행 용품 맞춤형 E-Commerce Shop : 호지니닷컴(-shoutdown-)
@@ -27,12 +28,12 @@ Introduce my career
     - JavaScript, jQuery
   - 창작 단편 소설 오디오북 유튜브 채널(팀 운영) 개설/운영 
      - 페니라디오(https://www.youtube.com/channel/UCpjcr8jtCc0dNGJ9kblkUgg/featured) 개설 
-     - 팀원 장호진(PD), 강지영(작가), 박유림(연기자)
+     - 장호진(대표), 강지영(작가), 박유림(연기자)
 - 2015
   - 정보통신기술진흥원(IITP) 소상공인 지원 프로젝트 선정 (1000)
     - SteakOut 푸드트럭 위치 기반 알림 Android, IOS, Web 개발, 모바일에서 전송한 푸드트럭의 위치가 웹 사이트의 지도에서 표시 
     - Web 전반과 Moblie에서 보내오는 위치정보를 받아서 naverMap API와 연동하여 맵 표현, 길찾기 연결 담당
-    - 팀: 이순재(대표), 장호진, 이동민, 유지은, 안중현
+    - 이순재(대표), 장호진, 이동민, 유지은, 안중현
 - 2014
 
 - 2013
