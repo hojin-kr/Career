@@ -13,7 +13,7 @@ Introduce my career
   - 해외 Vinyl(LP) 구매대행 E-Commerce Shop: 호지니레코드(http://호지니레코드.com)
   - 여행 용품 맞춤형 E-Commerce Shop : 호지니닷컴(-shoutdown-)
   - 사업자등록 : 호지니(HoGini) 대표
-  - TCPSCHOOL 온라인 교재 검수(http://tcpschoool.com)
+  - TCPSCHOOL 온라인 교재 검수(http://tcpschool.com/)
   - CODINGSAM 인터넷 동영상 강의 촬영(http://codingsam.com/)
   - 창작 단편 소설 오디오북 유튜브 채널 : 페니라디오(https://www.youtube.com/channel/UCpjcr8jtCc0dNGJ9kblkUgg/featured)
 - 2015
