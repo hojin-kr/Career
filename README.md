@@ -10,8 +10,10 @@ Introduce my career
 - 2017
   - ICT 스터리그룹 우수상 : 로또 번호 예측 lottoNumSelector(https://github.com/hojin-kr/lottoNumSelector)
   - 단국대학교 창업지원단 창업동아리 선정
-  - 해외 Vinyl(LP) 구매대행 E-Commerce Shop: 호지니레코드(http://호지니레코드.com)
+  - 해외 Vinyl(LP) 구매대행 E-Commerce Shop : 호지니레코드(http://호지니레코드.com)
+    - 사이트 자체 개발 : 서버 : AWS, EC2, Ubuntu 프레임워크 :  WordPress(php html css) 결제 솔루션 : iamport + PG Danal
   - 여행 용품 맞춤형 E-Commerce Shop : 호지니닷컴(-shoutdown-)
+    - 사이트 자체 개발 : 서버 : AWS, EC2, Ubuntu 프레임워크 :  WordPress(php html css) 결제 솔루션 : iamport + PG Danal
   - 사업자등록 : 호지니(HoGini) 대표
   - TCPSCHOOL 온라인 교재 검수(http://tcpschool.com/)
   - CODINGSAM 인터넷 동영상 강의 촬영(http://codingsam.com/)
