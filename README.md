@@ -33,3 +33,7 @@ Web 전반, Moblie에서 보내오는 위치정보를 받아서 Map에 표현 �
 - 2012
   - Dankook Univ Software Engineering
   - 정보 보안 동아리 Aegis
+
+# Contact 
+- jhj377@gmail.com
+- +82.10.7142.3834
