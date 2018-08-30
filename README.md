@@ -29,7 +29,7 @@ Introduce my career
   - 창작 단편 소설 오디오북 유튜브 채널(팀 운영) 개설/운영 
      - 페니라디오(https://www.youtube.com/channel/UCpjcr8jtCc0dNGJ9kblkUgg/featured) 개설 
      - 장호진(대표), 강지영(작가), 박유림(연기자)
-- 2015
+- 2016
   - 정보통신기술진흥원(IITP) 소상공인 지원 프로젝트 선정 (1000)
     - SteakOut 푸드트럭 위치 기반 알림 Android, IOS, Web 개발, 모바일에서 전송한 푸드트럭의 위치가 웹 사이트의 지도에서 표시 
     - Web 전반과 Moblie에서 보내오는 위치정보를 받아서 naverMap API와 연동하여 맵 표현, 길찾기 연결 담당
