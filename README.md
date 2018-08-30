@@ -29,6 +29,13 @@ Introduce my career
   - 창작 단편 소설 오디오북 유튜브 채널(팀 운영) 개설/운영 
      - 페니라디오(https://www.youtube.com/channel/UCpjcr8jtCc0dNGJ9kblkUgg/featured) 개설 
      - 장호진(대표), 강지영(작가), 박유림(연기자)
+  - 인천경제산업정보테크노파크(ibitp) 유유기지 Injoy 청년 모임지원 사업 선정 (50)
+    - 대학생 외국인 여행자 가이드 프로젝트 BeTogether
+    - 이종훈(대표), 장호진(CTO) ...
+    - 가이드 등록 및 가이드 일정 관리 전반 기술 지원
+    - 웹 페이지 개발 (http://betogether-korea.com)
+      - 서버: AWS, EC2 프레임워크: WordPress
+    - 명함 디자인
 - 2016
   - 정보통신기술진흥원(IITP) 소상공인 지원 프로젝트 선정 (1000)
     - SteakOut 푸드트럭 위치 기반 알림 Android, IOS, Web 개발, 모바일에서 전송한 푸드트럭의 위치가 웹 사이트의 지도에서 표시 
