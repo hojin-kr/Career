@@ -4,6 +4,7 @@ Introduce my career
 # Career Table
 - 2018
   - 단국대학교 소프트웨어학과 학사 졸업
+  - 정보처리기사 취득
   - 코딩 교육 유튜브 채널 개설/운영
      - 호진쌤(https://www.youtube.com/user/hojin17)
   - 인천경제산업정보테크노파크(ibitp) 유유기지 Injoy 청년 모임지원 사업 선정 (50)
