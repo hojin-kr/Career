@@ -1,5 +1,5 @@
 # Career
-Introduce my career
+경력 
 
 경력 성향에 따라서 [개발] [연구] [사업] [컨텐츠] 로 분류
 
