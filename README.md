@@ -28,7 +28,7 @@
       
 - 2017
   - [개발] 미래교육혁신원 교수학습개발센터 스터리그룹 Best Practice 공모전 우수팀 선정(장려상)
-    - 로또 번호 예측 lottoNumSelector(https://github.com/hojin-kr/lottoNumSelector)
+    - 로또 번호 예측 lottoNumSelector(https://github.com/hojin-kr/lottoNumSelector) ( 13.124.188.184 )
     - 장호진, 이동민, 유지은, 
     
   - [사업] 단국대학교 창업지원단 창업동아리 선정
