@@ -15,7 +15,7 @@
     - 백엔드 (PHP, JAVA)
     
   - [개발] 위너스앤파트너스 개발자 2019.07.22 ~ 
-    - 렌트드림 어플리케이션 유지보수
+    - 렌트드림 어플리케이션 유지보수 (https://rentdram.kr)
     - PHP, JavaScript, Jquery, MySQL, HTML, CSS, AWS LightSail, Cafe24, SSL, CodeIgniter, PC Web, Mobile Web, iOS APP, Android APP, KaKaoTalk AramTalk(POP BIll), iamport
     - PHPStrom, Git, Bitbucket, Zepline, XD, Trello, Android Studio, XCode
     
