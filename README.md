@@ -3,6 +3,16 @@
 
 경력 성향에 따라서 [개발] [연구] [사업] [컨텐츠] 로 분류
 
+# 현재
+
+  - [개발] 위너스앤파트너스 개발자 2019.07.22 ~ 
+    - 렌트드림 어플리케이션 유지보수 (https://rentdream.kr)
+      - CI(코드이그나이터) HMVC 기반 PC 웹, 모바일 웹, iOS 앱, Android 앱 유지보수
+    - Laravel + Vue 사이트 개발
+    - 기술스택 : PHP, JavaScript, Jquery, MySQL, HTML, CSS, AWS LightSail, Cafe24, SSL, CodeIgniter, PC Web, Mobile Web, iOS APP, Android APP, KaKaoTalk AramTalk(POP BIll), iamport
+    - 사용툴 : PHPStrom, Git, Bitbucket, Zepline, XD, Trello, Android Studio, XCode
+
+
 # Career Table
 - 2019
   - [연구] 단국대학교 산학헙력단 과제 참여 연구원 2018.10 ~ 2019.02
@@ -16,7 +26,9 @@
     
   - [개발] 위너스앤파트너스 개발자 2019.07.22 ~ 
     - 렌트드림 어플리케이션 유지보수 (https://rentdream.kr)
-    - PHP, JavaScript, Jquery, MySQL, HTML, CSS, AWS LightSail, Cafe24, SSL, CodeIgniter, PC Web, Mobile Web, iOS APP, Android APP, KaKaoTalk AramTalk(POP BIll), iamport
+      - CI(코드이그나이터) HMVC 기반 PC 웹, 모바일 웹, iOS 앱, Android 앱 유지보수
+    - Laravel + Vue 사이트 개발
+    - 기술스택: PHP, JavaScript, Jquery, MySQL, HTML, CSS, AWS LightSail, Cafe24, SSL, CodeIgniter, PC Web, Mobile Web, iOS APP, Android APP, KaKaoTalk AramTalk(POP BIll), iamport
     - PHPStrom, Git, Bitbucket, Zepline, XD, Trello, Android Studio, XCode
     
 - 2018
