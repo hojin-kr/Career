@@ -1,13 +1,17 @@
+# Hojin's GitHub
+
+# I can make
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/hojin-kr/i-can-make)
+
 # Career
 
 # 현재
 
   - [개발] 위너스앤파트너스 개발자 2019.07.22 ~ 
-    - 렌트드림 어플리케이션 유지보수 (https://rentdream.kr)
+    - 렌트드림 어플리케이션 유지보수 (https://rentdream.kr) (app stack ([![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/rentdream/rentdream)))
       - CI(코드이그나이터) HMVC 기반 PC 웹, 모바일 웹, iOS 앱, Android 앱 유지보수
-    - Laravel + Vue 사이트 개발
     - 기술스택 : PHP, JavaScript, Jquery, MySQL, HTML, CSS, AWS LightSail, Cafe24, SSL, CodeIgniter, PC Web, Mobile Web, iOS APP, Android APP, KaKaoTalk AramTalk(POP BIll), iamport
-    - 사용툴 : PHPStrom, Git, Bitbucket, Zepline, XD, Trello, Android Studio, XCode
+    - 사용툴 : PHPStrom, Git, Bitbucket, Zepline, XD, Trello, Android Studio, XCode . 
 
 
 # Career Table
