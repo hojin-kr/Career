@@ -18,7 +18,7 @@
           - server : Cafe24, SSL, CentOS
           - dev server : docker + local PC (Virtual box)
     - tool : PHPStrom, Git, Bitbucket, Zepline, XD, Trello
-    - Vue.js 사이트 개발
+    - Vue.js 사이트 개발 rentdream.co.kr
 
 
 # Career Table
