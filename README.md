@@ -1,12 +1,12 @@
 # Hojin's GitHub
 
-# I can make
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/hojin-kr/i-can-make)
 
 # Career
 
 # 현재
-- []
+- [개발] 선데이토즈 2020.02.03 ~ 
+    - 선데이토즈 라이브 서버팀 인턴 2020.02.03 ~ 
 
 
 # Career Table
