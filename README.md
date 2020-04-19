@@ -12,6 +12,7 @@
 # Career Table
 - 2020
   - [개발] 위너스앤파트너스 개발자 2019.07.22 ~ 2020.01.01
+    - [rentdream.kr](https://rentdream.kr)
     - 렌트드림 어플리케이션 유지보수 (https://rentdream.kr) (app stack ([![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/rentdream/rentdream)))
       - CI(코드이그나이터) HMVC 기반 PC 웹, 모바일 웹, iOS 앱, Android 앱 유지보수
     - tec : 
@@ -22,7 +23,7 @@
           - server : Cafe24, SSL, CentOS
           - dev server : docker + local PC (Virtual box)
     - tool : PHPStrom, Git, Bitbucket, Zepline, XD, Trello
-    - Vue.js 사이트 개발 rentdream.co.kr
+    - Vue.js 사이트 개발 [rentdream.co.kr](rentdream.co.kr)
 - 2019
   - [연구] 단국대학교 산학헙력단 과제 참여 연구원 2018.10 ~ 2019.02
     - 청년 TLO 연구원
