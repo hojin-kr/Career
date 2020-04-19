@@ -23,7 +23,7 @@
           - server : Cafe24, SSL, CentOS
           - dev server : docker + local PC (Virtual box)
     - tool : PHPStrom, Git, Bitbucket, Zepline, XD, Trello
-    - Vue.js 사이트 개발 [rentdream.co.kr](rentdream.co.kr)
+    - Vue.js 사이트 개발 [rentdream.co.kr](http://rentdream.co.kr)
 - 2019
   - [연구] 단국대학교 산학헙력단 과제 참여 연구원 2018.10 ~ 2019.02
     - 청년 TLO 연구원
